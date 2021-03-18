@@ -58,12 +58,8 @@
       </a>
     </br>
       <div style="display: flex; align-items: center">
-        <img src="https://img.icons8.com/fluent/36/000000/webpage.png" title="Portfolio" />
-        <a href="https://rayanneblima.github.io/" target="_blank" style="text-decoration: none">
-          Portfolio
-        </a>
         <img src="https://img.icons8.com/ultraviolet/36/000000/download-resume.png" title="CV" />
-        <a href="https://drive.google.com/file/d/1akdGjdSQxgFJMnQU0_ZCT1gYvjKShEr6/view?usp=sharing" target="_blank"
+        <a href="https://drive.google.com/file/d/1xjHYh_Tc2Af8QRdVYlhqc6yhAIUqFTNu/view?usp=sharing" target="_blank"
           style="text-decoration: none">Curriculum Vitae (PT-BR)
         </a>
       </div>
