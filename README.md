@@ -1,4 +1,4 @@
-#👨‍💻 Vinicius Sedrim
+#👨‍💻 Vinicius Sedrim#
 
 **Hey, curious! 👋**
 I'm Vinicius Sedrim, Full Stack Developer, Computer Science Student at – Federal University of ABC (UFABC) and Full Stack Java Developer by Digital House Brasil in partnership with Santander Coders.
