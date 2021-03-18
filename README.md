@@ -6,7 +6,7 @@
       </h1>
     </div>
      <div align="left">
-      <h3>Hey, curious! <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
+      <h3>Hey, people! <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
       </h3>
       <p>I'm Vinicius Sedrim, Full Stack Developer, Computer Science Student at Federal University of ABC (UFABC) and Full Stack Java Developer by Digital House Brasil in partnership with Santander Coders.</p>
     </div>
