@@ -35,6 +35,7 @@
       <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreeSQL" />
       <img src="https://img.icons8.com/metro/48/000000/mysql.png" title="MySQL" />
       <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" />
+      <img src="https://img.icons8.com/color/48/000000/c.png" title="C" />
     </div>
     <div align="left">
       <h2>Find Me</h2>
