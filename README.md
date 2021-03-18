@@ -45,7 +45,7 @@
           data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=flat-square&amp;logo=linkedin&amp;logoColor=white"
           style="max-width:100%;">
       </a>
-      <a href="https://t.me/rayanneblima" target="_blank" style="text-decoration: none">
+      <a href="https://t.me/viniciussedrim" target="_blank" style="text-decoration: none">
         <img src="https://camo.githubusercontent.com/627a4a98478d460b2acca139a9b5e0face41aa4c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3163613066313f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d316361306631266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f742e6d652f6c75636173676462"
           alt="Telegram Badge"
           data-canonical-src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=telegram&amp;logoColor=white&amp;" style="
