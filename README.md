@@ -8,20 +8,19 @@
      <div align="left">
       <h3>Hey, curious! <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
       </h3>
-      <p>I'm Rayanne Bertolace Lima, Full Stack Developer, Computer Science Student at Federal Institute of Education
-        Science and Technology of Southeast Minas Gerais (IFSEMG) and Full Stack Java Developer by Digital House Brasil in partnership with Santander Coders.</p>
+      <p>I'm Vinicius Sedrim, Full Stack Developer, Computer Science Student at Federal University of ABC (UFABC) and Full Stack Java Developer by Digital House Brasil in partnership with Santander Coders.</p>
     </div>
     <div>
       <ul>
         <li>
           <g-emoji class="g-emoji" alias="books"
             fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Studying:
-          JavaScript | React | React-Native | NodeJS;
+          JavaScript | Python | Data Science | C;
         </li>
         <li>
           <g-emoji class="g-emoji" alias="smile"
             fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji> Hobbies:
-          watch movies and series, listen music, play guitar and online games;
+          watch movies and series, listen music and online games;
         </li>
       </ul>
     </div>
@@ -31,14 +30,11 @@
       <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" />
       <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS 3" />
       <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java 8+" />
-      <img src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring" />
       <img src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript" />
-      <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="NodeJS" />
       <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React" />
-      <img src="https://img.icons8.com/color/48/000000/android-os.png" title="Android Development" />
       <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreeSQL" />
       <img src="https://img.icons8.com/metro/48/000000/mysql.png" title="MySQL" />
-      <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" />
+      <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" />
     </div>
     <div align="left">
       <h2>Find Me</h2>
