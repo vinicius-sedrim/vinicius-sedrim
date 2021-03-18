@@ -1,8 +1,8 @@
  <div>
     <div align="center">
       <h1>
-        <g-emoji class="g-emoji" alias="woman_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">👩&zwj;💻</g-emoji>
-        Rayanne Bertolace Lima
+        <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">👨&zwj;💻</g-emoji>
+        Vinicius Sedrim
       </h1>
     </div>
      <div align="left">
