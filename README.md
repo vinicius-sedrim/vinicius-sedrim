@@ -62,11 +62,11 @@
           max-width:100%;">
       </a>
     </br>
- <! –     <div style="display: flex; align-items: center">
+     <div style="display: flex; align-items: center">
         <img src="https://img.icons8.com/ultraviolet/36/000000/download-resume.png" title="CV" />
        <a href="https://drive.google.com/file/d/1xjHYh_Tc2Af8QRdVYlhqc6yhAIUqFTNu/view?usp=sharing" target="_blank"
-          style="text-decoration: none">Curriculum Vitae (PT-BR)
-        –>
+ <! –           style="text-decoration: none">Curriculum Vitae (PT-BR) ->
+        
         </a>
       </div>
     </div>
